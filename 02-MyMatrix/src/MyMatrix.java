@@ -59,7 +59,8 @@ public class MyMatrix {
 	public MyMatrix plus(MyMatrix B){
 		//int[][] c = new int[m][n];
 		//this.data[i][j]+B.data[i][j]
-		//return c;
+		//MyMatrix cMatrix = new MyMatrix(c)
+		//return cMatrix;
 	}
 
 	
