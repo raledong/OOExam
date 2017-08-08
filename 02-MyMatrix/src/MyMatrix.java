@@ -57,14 +57,11 @@ public class MyMatrix {
 	 * @return
 	 */
 	public MyMatrix plus(MyMatrix B){
-		
-		return null;
+		//int[][] c = new int[m][n];
+		//this.data[i][j]+B.data[i][j]
+		//return c;
 	}
-        public int[][] plus(int a[][], int b[][]){
-		
-		return null;
-	}
-        
+
 	
 	/**
 	 * 实现矩阵乘法，返回一个新的矩阵
